@@ -1,0 +1,7 @@
+paper/paper_code.zip
+paper/paper_code/
+paper/__MACOSX/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/
